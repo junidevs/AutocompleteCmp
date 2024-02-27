@@ -10,12 +10,15 @@ List the key features of your project.
 
 ## Used Technologies
 
-- **Next.js v14**:
-- **TypeScript**:
+- **Next.js v14 with https://turbo.build/ **:
+- **TypeScript v5* **:
 - **Tailwind CSS**:
 - **Docker**:
 - **ESLint/Prettier**:
 - **Storybook**:
+- **MSW for mocking data**
+- **Vitest with react testing lib **
+- ** Threejs for main page to animate rocket **
 
 ## Atomic Design Folder Structure
 
