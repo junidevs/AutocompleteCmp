@@ -1,38 +1,39 @@
 # 🚀🚀🚀 RocketDocs 🚀🚀🚀
 
-## Introduction
+## 📖 Introduction
 
-First try with [ tailwind css with next js app folder ]
+Exploring Tailwind CSS within a Next.js app structure.
 
-## Features
+## ✨ Features
 
-List the key features of your project.
+Highlight the unique aspects and functionalities of your project.
 
-## Used Technologies
+## 🛠 Used Technologies
 
-- **Next.js v14 with https://turbo.build/ **:
-- **TypeScript v5* **:
-- **Tailwind CSS**:
-- **Docker**:
-- **ESLint/Prettier**:
-- **Storybook**:
-- **MSW for mocking data**
-- **Vitest with react testing lib **
-- ** Threejs for main page to animate rocket **
+- **Next.js v14** with ![turbo](https://turbo.build/) 🚀
+- **TypeScript v5** 📝
+- **Tailwind CSS** 💨
+- **Docker** 🐳
+- **ESLint/Prettier** ✨
+- **Storybook** 📚
+- **MSW (Mock Service Worker)** for mocking data 📡
+- **Vitest with React Testing Library** 🧪
+- **Three.js** for main page rocket animation 🚀
 
-## Atomic Design Folder Structure
+## 🏗 Atomic Design Folder Structure
 
-Describe how your project is organized following the atomic design methodology:
+Organized with atomic design principles:
 
-- **Atoms**: The smallest building blocks of the project, like buttons, input fields.
-- **Molecules**: Groups of atoms functioning together, like a search form.
-- **Organisms**: Complex UI components composed of molecules and atoms, like a header.
+- **Atoms**: Basic UI elements (buttons, inputs).
+- **Molecules**: Combinations of atoms (search forms).
+- **Organisms**: Complex components (headers).
 
-## Setup and Installation
+## 🚀 Setup and Installation
 
-- **edit .env file with you preferences**
-- **yarn install** - this will install all required packages
+1. Customize `.env` to your preferences.
+2. Install dependencies with `yarn install`.
 
+To start the project:
 ```bash
 yarn dev
 # or
