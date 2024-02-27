@@ -37,3 +37,6 @@ yarn dev:turbo
 ```
 ![image](https://github.com/junidevs/AutocompleteCmp/assets/52135894/4bb88daa-2f7f-4512-9cee-7d2a9e3aa488)
 
+![image](https://github.com/junidevs/AutocompleteCmp/assets/52135894/ff79cf5a-38a9-4ca6-a7d0-36714f64198f)
+
+
