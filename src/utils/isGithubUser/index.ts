@@ -1,0 +1,1 @@
+export { isGitHubUser } from "./isGithubUser"
