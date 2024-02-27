@@ -6,7 +6,7 @@ Exploring Tailwind CSS within a Next.js app structure.
 
 ## ✨ Features
 
-Highlight the unique aspects and functionalities of your project.
+Reusable Autocomplete Component
 
 ## 🛠 Used Technologies
 
@@ -30,7 +30,7 @@ Organized with atomic design principles:
 
 ## 🚀 Setup and Installation
 
-1. Customize `.env` to your preferences.
+1. Customize & create `.env` to your preferences.
 2. Install dependencies with `yarn install`.
 
 To start the project:
