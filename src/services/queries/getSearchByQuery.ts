@@ -21,7 +21,7 @@ const getSearchByQuery = async({
     {
       params: {
         q: query,
-        per_page: 50
+        per_page: 50 // here we could also pass prop "limit" with dynamic select
       }
     }
   )
