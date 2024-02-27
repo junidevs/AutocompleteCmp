@@ -10,7 +10,7 @@ Highlight the unique aspects and functionalities of your project.
 
 ## 🛠 Used Technologies
 
-- **Next.js v14** with ![turbo](https://turbo.build/) 🚀
+- **Next.js v14** with (https://turbo.build/) 🚀
 - **TypeScript v5** 📝
 - **Tailwind CSS** 💨
 - **Docker** 🐳
